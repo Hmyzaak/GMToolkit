@@ -6,12 +6,12 @@ Tvořím **webovou aplikaci GMToolkit** pro vedení TTRPG kampaně, zaměřenou 
 
 ## 📁 Struktura projektu
 
-gmtoolkit/
-├── core/ # Herní logika: postavy, iniciativy, generátory, deník
-├── backend/ # REST API: FastAPI nebo Django REST Framework
-├── frontend/ # Webové UI: React (v další fázi)
-├── data/ # Vzorky, YAML/CSV/JSON soubory
-└── tests/ # Testy jednotlivých modulů
+gmtoolkit/   
+├── core/ # Herní logika: postavy, iniciativy, generátory, deník   
+├── backend/ # REST API: FastAPI nebo Django REST Framework   
+├── frontend/ # Webové UI: React (v další fázi)   
+├── data/ # Vzorky, YAML/CSV/JSON soubory   
+└── tests/ # Testy jednotlivých modulů   
 
 ---
 
